@@ -1,4 +1,4 @@
-# EC-Team-21-yadtq-yet-another-distributed-task-queue-
+# YADTQ
 
 - sudo systemctl start zookeeper
 - sudo systemctl start kafka
